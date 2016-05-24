@@ -1,7 +1,7 @@
 {
   "name": "sd-card-library",
-  "author": "Daniel Sullivan <mumblepins@gmail.com>",
+  "author": "Nick Stringer <nickedynick@gmail.com>",
   "license": "GPL v3",
   "version": "0.0.1",
-  "description": "SD Card Library (forked from https://github.com/technobly/SparkCore-SD)"
+  "description": "Photon SD Card Library (forked from https://github.com/technobly/SparkCore-SD)"
 }
